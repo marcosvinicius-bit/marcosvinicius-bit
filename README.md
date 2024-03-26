@@ -5,6 +5,7 @@
 ### Tencologias que estou apredendo:
 ![image](https://github.com/marcosvinicius-bit/marcosvinicius-bit/assets/146993835/d2bbdf88-c9d2-4279-b28f-6b2573cea957)
 ![image](https://github.com/marcosvinicius-bit/marcosvinicius-bit/assets/146993835/aaa1fb75-b758-4d37-8af7-78806c5df088)
+![image](https://camo.githubusercontent.com/77a94341662845d3740986b84d8219c0fd4a0a9e4af8e5411c24cec0faee2129/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176615363726970742d3332333333303f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d463744463145)
 
 ### Encontre-me:
 <a href="https://www.instagram.com/mircusbr/"> ![image](https://github.com/marcosvinicius-bit/marcosvinicius-bit/assets/146993835/76b56610-a730-4040-88c8-ca8d83090532)
