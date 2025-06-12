@@ -1,6 +1,6 @@
 <img align="left" src="https://github.com/marcosvinicius-bit/marcosvinicius-bit/assets/146993835/a944a3b6-ec67-45f0-8a30-39ddf46e4daf" width="700px" height="620px">
 
-## Olá mundo! Estou fazendo curso de programação web full-stack no Instituto da Oportunidade Social. 
+## Olá mundo! Conclui  o curso de programação web full-stack no Instituto da Oortunidade Social.
 
 ### Tencologias que estou apredendo:
 ![image](https://github.com/marcosvinicius-bit/marcosvinicius-bit/assets/146993835/d2bbdf88-c9d2-4279-b28f-6b2573cea957)
